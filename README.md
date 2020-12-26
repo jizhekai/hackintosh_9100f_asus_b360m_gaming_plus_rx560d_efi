@@ -32,7 +32,7 @@ Opencore 版本：0.6.4
 
 ### 你需要做的事
 
-1. [使用gibMacOS](https://github.com/corpnewt/gibMacOS)生成三码，以免与其他人的相同，填入platforminfo
+1. [使用gibMacOS](https://github.com/corpnewt/gibMacOS)生成三码，以免与其他人的相同，填入platforminfo 
 
 
 ### 致谢
